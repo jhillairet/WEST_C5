@@ -1,0 +1,3 @@
+[ imas_edge_density,imas_core_density_REDini, imas_core_density_INTini,tr,ic,ia,profil] ...
+    = get_WESTreflec_profiles(56898);
+
